@@ -255,7 +255,7 @@ main {
 }
 
 .pfp {
-  border: 3px solid --clr-fg;
+  border: 3px solid var(--clr-fg);
   border-radius: 50%;
 }
 
