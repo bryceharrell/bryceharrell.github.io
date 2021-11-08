@@ -251,14 +251,13 @@ main {
 }
 
 .avatar {
-  padding-bottom: 1em;
   display: flex;
   align-items: center;
   flex-direction: column;
 }
 
 .pfp {
-  border: 2px solid var(--clr-fg);
+  border: 1.5px solid var(--clr-fg);
   border-radius: 50%;
 }
 
