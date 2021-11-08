@@ -253,7 +253,7 @@ main {
 .avatar {
   padding-bottom: 5em;
   display: flex;
-  align-items: center
+  align-items: center;
 }
 
 .pfp {
