@@ -251,8 +251,9 @@ main {
 }
 
 .pfp {
-  border: 1.5px solid --clr-fg;
+  border: 3px solid --clr-fg;
   border-radius: 50%;
+  padding-bottom: 3em;
 }
 
 .about {
