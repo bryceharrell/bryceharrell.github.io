@@ -250,6 +250,11 @@ main {
   width: 1em;
 }
 
+.pfp {
+  border: 1.5px solid --clr-fg;
+  border-radius: 50%;
+}
+
 .about {
   flex-direction: column;
   margin-top: 3em;
