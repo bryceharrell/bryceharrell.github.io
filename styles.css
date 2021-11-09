@@ -259,6 +259,8 @@ main {
 .pfp {
   border: 2px solid var(--clr-fg);
   border-radius: 50%;
+  width: 275px;
+  height: 275px;
 }
 
 .about {
