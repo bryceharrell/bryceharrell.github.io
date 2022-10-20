@@ -256,7 +256,7 @@ button {
 }
 
 
-@keyframes text1 {
+@keyframes text2 {
   0%, 25%, 50%, 75%, 100% {
     width: 0;
   }
@@ -264,7 +264,7 @@ button {
     width: 9.1em;
   }
 }
-@keyframes text2 {
+@keyframes text1 {
   0%, 25%, 50%, 75%, 100% {
     width: 0;
   }
