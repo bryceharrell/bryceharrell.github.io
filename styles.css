@@ -256,14 +256,7 @@ button {
 }
 
 
-@keyframes text2 {
-  0%, 25%, 50%, 75%, 100% {
-    width: 0;
-  }
-  6.25%, 18.75% {
-    width: 9.1em;
-  }
-}
+
 @keyframes text1 {
   0%, 25%, 50%, 75%, 100% {
     width: 0;
@@ -272,6 +265,15 @@ button {
     width: 5.5em;
   }
 }
+@keyframes text2 {
+  0%, 25%, 50%, 75%, 100% {
+    width: 0;
+  }
+  6.25%, 18.75% {
+    width: 9.1em;
+  }
+}
+
 @keyframes text3 {
   0%, 25%, 50%, 75%, 100% {
     width: 0;
